@@ -1,0 +1,84 @@
+EMAIL ARCHIVE - MARCH 15, 2024
+================================
+
+From: noreply@competitorcorp.com
+To: athompson@techcorp.com
+Date: March 14, 2024 11:45 PM
+Subject: Re: Your Interest in Our Offer
+
+Alex,
+
+We're very pleased to hear you're reconsidering our offer. As discussed, we're particularly interested in any innovative algorithms or data processing techniques you might bring to our team.
+
+The position of Senior Algorithm Specialist remains open for you, with the compensation package we discussed:
+- Base salary: $250,000 (50% increase from your current)
+- Signing bonus: $100,000
+- Stock options: 10,000 shares
+
+We understand you have valuable intellectual property at TechCorp. While we cannot explicitly request proprietary information, we value team members who bring deep knowledge and experience.
+
+Please let us know your decision by March 16.
+
+Best regards,
+H. Richardson
+VP of Engineering
+CompetitorCorp
+
+---
+
+From: athompson@techcorp.com  
+To: mrichards@personalmail.com
+Date: March 15, 2024 7:30 AM
+Subject: Can't believe it
+
+Mike,
+
+They're offering me almost double. But the algorithm we've been working on... Professor Git would never forgive me. Still, with the baby on the way and the mortgage...
+
+What would you do?
+
+-Alex
+
+---
+
+From: professor.git@techcorp.com
+To: all-staff@techcorp.com
+Date: March 15, 2024 9:00 AM
+Subject: Security Reminder
+
+Team,
+
+A reminder that all code, algorithms, and intellectual property developed at TechCorp remain the property of the company. Any unauthorized sharing or removal of proprietary code is grounds for immediate termination and legal action.
+
+Our revolutionary algorithm project is entering its final phase. Please ensure all security protocols are followed.
+
+Professor Git
+CTO, TechCorp
+
+---
+
+From: schen@techcorp.com
+To: mjohnson@techcorp.com
+Date: March 15, 2024 1:45 PM  
+Subject: Did you see Alex today?
+
+Marcus,
+
+Is it just me or is Alex acting strange today? He seemed really nervous in the morning standup.
+
+Also, great work on those test cases!
+
+Sarah
+
+---
+
+From: mjohnson@techcorp.com
+To: schen@techcorp.com  
+Date: March 15, 2024 2:00 PM
+Subject: Re: Did you see Alex today?
+
+Yeah, he's been jumpy all week. Probably just stress from the project deadline.
+
+BTW, I'm heading to Rita's desk soon to get help with git. These commands are confusing!
+
+Marcus
