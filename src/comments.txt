@@ -5,7 +5,7 @@ March 15, 2024
 
 Alex Thompson:
 - Remember to update documentation after changes
-- Fix that typo in the optimization function
+- Fixed that typo in the optimization function
 
 Sarah Chen:
 - Great work on the parallel processing feature!
