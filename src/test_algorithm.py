@@ -43,6 +43,12 @@ class TestRevolutionaryAlgorithm(unittest.TestCase):
     def test_optimization_level(self):
         self.assertEqual(self.algo.optimization_level, 9000)
         self.assertIsNotNone(self.algo.secret_sauce)
+    
+    def test_large_dataset(self):
+        data = list(range(10000))
+        result = self.algo.process_data(data)
+        self.assertEqual(result['processed_count'], 10000)
+        self.assertGreater(result['efficiency_ratio'], 1.0)
 
 
 if __name__ == '__main__':
